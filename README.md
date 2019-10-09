@@ -1,5 +1,4 @@
-# Cloud-HW-4
-
+# Big data project
 Hadoop MapReduce CSV Analysis
 
 The assignment reads the csv data file from the path  /user/tatavag/nyc.data
